@@ -1,0 +1,2 @@
+# RStrat
+Stratifying archaeological features
